@@ -5,7 +5,10 @@
  
 install node.js
 
-in terminal: 
+open project folder in vs code
+
+open terminal
+
 npm install express socket.io moment
 
 npm install -D nodemon
