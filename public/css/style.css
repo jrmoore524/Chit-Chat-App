@@ -2,7 +2,7 @@
 
 :root {
 	--dark-color-a: black;
-	--dark-color-b: navy;
+	--dark-color-b: rgb(78, 6, 138);
 	--light-color: rgb(175, 171, 171);
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
