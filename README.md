@@ -1,2 +1,2 @@
-# Side Speak
- Side Speak Chat App
+# Chit-Chat 
+ Chit-Chat Chat App
