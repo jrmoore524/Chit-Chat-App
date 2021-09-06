@@ -3,7 +3,7 @@
  
  USAGE
  
-npm install
+npm install express socket.io moment
 
 npm run dev
 
