@@ -3,6 +3,9 @@
  
  USAGE
  
+install node.js
+
+in terminal: 
 npm install express socket.io moment
 
 npm install -D nodemon
