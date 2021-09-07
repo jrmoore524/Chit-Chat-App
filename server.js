@@ -58,6 +58,6 @@ io.on('connection' , socket => {
     })
 })
 
-const PORT = 3000 || PerformanceObserverEntryList.env.PORT
+const PORT = 5000 || PerformanceObserverEntryList.env.PORT
 
 server.listen(PORT, () => console.log(`Server running on port ${PORT}`))
