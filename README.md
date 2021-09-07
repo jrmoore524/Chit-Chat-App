@@ -1,7 +1,7 @@
 # Chit-Chat 
  Chit-Chat Chat App
  
- USAGE
+LOCAL USAGE
  
 install node.js
 
@@ -16,3 +16,5 @@ npm install -D nodemon
 npm run dev
 
 Go to localhost:3000
+
+Web Application hosted by Digital Ocean
