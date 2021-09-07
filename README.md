@@ -1,6 +1,8 @@
 # Chit-Chat 
  Chit-Chat Chat App
  
+Inspired by Traversy Media
+ 
 LOCAL USAGE
  
 install node.js
