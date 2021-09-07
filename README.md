@@ -27,7 +27,9 @@ WEB APP USAGE
 Go to chitchatapp.online
 
 Choose any User Name
+
 Choose a Room
+
 Join Chat
 
 Web Application hosted by Digital Ocean
